@@ -1,0 +1,22 @@
+127.0.0.1 pixiv.net
+127.0.0.1 www.pixiv.net
+127.0.0.1 ssl.pixiv.net
+127.0.0.1 accounts.pixiv.net
+127.0.0.1 touch.pixiv.net
+127.0.0.1 oauth.secure.pixiv.net
+127.0.0.1 dic.pixiv.net
+127.0.0.1 en-dic.pixiv.net
+127.0.0.1 sketch.pixiv.net
+127.0.0.1 payment.pixiv.net
+127.0.0.1 factory.pixiv.net
+127.0.0.1 comic.pixiv.net
+127.0.0.1 novel.pixiv.net
+127.0.0.1 imgaz.pixiv.net
+127.0.0.1 i.pximg.net
+
+127.0.0.1 steamcommunity.com
+127.0.0.1 store.steampowered.com
+127.0.0.1 help.steampowered.com
+127.0.0.1 media.steamcommunity.com
+127.0.0.1 cdn.steamcommunity.com
+127.0.0.1 origin.steamcommunity.com
