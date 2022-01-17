@@ -1,6 +1,6 @@
 # nginx pixiv代理
 
-**基于nginx的pixiv连接**
+**基于nginx的pixiv本地反向代理**
 
 **原理为本地反向代理**
 
