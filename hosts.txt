@@ -13,10 +13,3 @@
 127.0.0.1 novel.pixiv.net
 127.0.0.1 imgaz.pixiv.net
 127.0.0.1 i.pximg.net
-
-127.0.0.1 steamcommunity.com
-127.0.0.1 store.steampowered.com
-127.0.0.1 help.steampowered.com
-127.0.0.1 media.steamcommunity.com
-127.0.0.1 cdn.steamcommunity.com
-127.0.0.1 origin.steamcommunity.com
